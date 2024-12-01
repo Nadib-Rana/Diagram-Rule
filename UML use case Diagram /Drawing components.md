@@ -15,7 +15,7 @@
 
 ---
 
-### **2.  <<include>> Relationship Relationship**
+### 2.  << include >> Relationship Relationship
 - **What**: Reusable functionality shared between use cases.
 - **Who**: The actor interacts with the **base use case**, which automatically includes the other use case.
 - **When**: The included use case always executes as part of the base use case.
