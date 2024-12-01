@@ -28,7 +28,7 @@
 
 ---
 
-### **3. <<extend>> Relationship**
+### 3. << extend >> Relationship
 - **What**: Optional or conditional functionality added to a base use case.
 - **Who**: The actor interacts with the **base use case**, and the extended use case happens only if conditions are met.
 - **When**: When specific criteria (e.g., a discount is available) are satisfied.
